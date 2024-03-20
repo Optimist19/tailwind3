@@ -22,7 +22,7 @@ function Nav2() {
         </div>
       </header> */}
 
-      <header className="pt-[14vh] pb-3">
+      <header className="pt-[6vh] pb-3">
         <div className="flex items-center">
           <div className="flex items-center flex-1 gap-9">
             <div>
